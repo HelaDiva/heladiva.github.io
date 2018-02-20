@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://heladiva.github.io/",
-    "currentPage": "page1.html",
+    "currentPage": "mpacks.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 77,
     "versionPublish": "4.6.5",
@@ -696,9 +696,9 @@
         }
       ]
     },
-    "page1.html": {
+    "mpacks.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Couple Packages/Data Packages/ 2000Min Packages",
         "title": "Mobile Packages",
         "order": 1
       },
